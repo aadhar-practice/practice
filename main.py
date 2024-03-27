@@ -4,3 +4,6 @@
 
 print("hello , i am the main program")
 print("1st new line")
+
+print("eat samosa")
+print("eat pizza")
